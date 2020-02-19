@@ -4,9 +4,9 @@
 -Repo_Links: https://github.com/Rahulmallampati825/Voyager
 -Issue_Link: https://github.com/Rahulmallampati825/Voyager/issues/3
 
-# Introduction:
-        YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform.
-         According to Variety magazine, “To determine the year’s top-trending videos,
+# Introduction
+YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform.
+According to Variety magazine, “To determine the year’s top-trending videos,
           YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes)
 
 # Data Source:
