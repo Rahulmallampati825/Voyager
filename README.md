@@ -37,6 +37,33 @@ Solution:-
    Reducer output:-
                 |1kg Biriyani|1057090.034|
 
+   Chart: Bar chart
+ 2. question: For each channel_title,find the Maximum Views
+    Solution:-
+    Mapper Input:-
+	
+    pA0MdlTcBH0	17.10.12	INDIA vs HINDIA | 1 Kg Biriyani	1 Kg Biriyani	23	2017-12-09T07:20:41.000Z		55961	4285	432	341		FALSE	FALSE	FALSE	
+
+    Mapper Output:- Lokdhun Punjabi	1		1096327
+
+    Reducer Output:	Lokdhun Punjabi	1		1096327
+
+    Chart: Bar chart
+
+    3. question: For each channel_title,find the Minimum Views
+ Solution:-
+ Mapper Input:-
+
+|7V6Z1uh3sqg|	17.16.11|	The startup | 1 Kg Biriyani | TVF Machi	1 Kg Biriyani|	23	|2017-11-15T11:32:04.000Z|		43202|	2755	|184	|165	|	FALSE	|FALSE|	FALSE|	
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+
+
+  Mapper Output:- 
+  |1kg Biriyani|43202|
+
+    Reducer Output:	
+    |1kg Biriyani|4024|
+
     Chart: Bar chart
 
 
