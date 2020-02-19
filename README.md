@@ -5,15 +5,22 @@
 -Issue_Link: https://github.com/Rahulmallampati825/Voyager/issues/3
 
 # Introduction:
-        YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes)
+        YouTube (the world-famous video sharing website) maintains a list of the top trending videos on the platform.
+         According to Variety magazine, “To determine the year’s top-trending videos,
+          YouTube uses a combination of factors including measuring users interactions (number of views, shares, comments and likes)
 
 # Data Source:
 
             Volume: There are 37640 rows with 16 columns and the size of the data set is up to 57MB.
+
             Variety: The data is structured, it is in CSV format and can interpret using MS Excel.
+
             Velocity: The data is updated yearly once. Hence, the velocity is slow.
+
             Veracity: The data is clean, accurate and trustworthy.
+
             Value: This dataset is helpful in viewing their maximum likes, comments, and views.
+            
 
 Big Data Problems:-
 question:-  For each Channel_title,find the Average Views.
