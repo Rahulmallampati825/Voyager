@@ -29,6 +29,8 @@ Solution:-
     Mapper Input:- 
    
    |kzwfHumJyYc|	17.14.11|	Sharry Mann: Cute Munda ( Song Teaser) Parmish Verma  Releasing on 17 November|	Lokdhun Punjabi	1|	2017-11-12T12:20:39.000Z|		1096327|	33966|	798|	882	|	FALSE|	FALSE|	FALSE|
+   
+   |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
    Mapper Output:- 
                    |1 Kg Biriyani|43202|
@@ -43,6 +45,7 @@ Solution:-
     Mapper Input:-
 	
     pA0MdlTcBH0	17.10.12	INDIA vs HINDIA | 1 Kg Biriyani	1 Kg Biriyani	23	2017-12-09T07:20:41.000Z		55961	4285	432	341		FALSE	FALSE	FALSE	
+    |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
 
     Mapper Output:- Lokdhun Punjabi	1		1096327
 
@@ -61,10 +64,10 @@ Solution:-
   Mapper Output:- 
   |1kg Biriyani|43202|
 
-    Reducer Output:	
-    |1kg Biriyani|4024|
+   Reducer Output:	
+     |1kg Biriyani|4024|
 
-    Chart: Bar chart
+     Chart: Bar chart
 
 
     
