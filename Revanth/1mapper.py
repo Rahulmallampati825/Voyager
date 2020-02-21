@@ -1,4 +1,6 @@
+#  Implenenting mapper to find avg likes
 input = open("data.txt", "r",encoding='utf-8')
+# cpoy the result to avg1
 output = open("avg1.txt", "w",encoding='utf-8')
 
 for line in input:

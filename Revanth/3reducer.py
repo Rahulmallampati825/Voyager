@@ -18,7 +18,7 @@ for line in s:
     thisKey = channel_title 
     thisValue = 0.0
   
-  # apply the aggregation function
+  # apply the aggregation function to find Avg likes
     thisValue +=float(likes)
 
 
