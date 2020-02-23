@@ -53,29 +53,29 @@ YouTube uses a combination of factors including measuring users interactions (nu
     1. Mapper Input : n1WpP7iowLc,17.14.11,EminemVEVO,10,2017-11-10T17:00:03.000Z,Eminem|"Walk"|"On"|"Water"|"Aftermath/Shady/Interscope"|"Rap",17158579,787425,43420,125882
     
     2. Mapper Output:
-    
-   EminemVEVO	787425
+     EminemVEVO	787425
    
-   iDubbbzTV	127794
+      iDubbbzTV	127794
    
-   Rudy Mancuso	146035
+      Rudy Mancuso 146035
    
-   nigahiga	    132239
+      nigahiga	    132239
     
-    3.Reducer input:
-    AndresSTyle	4655
+    3. Reducer input:
+      AndresSTyle	4655
     
-    AndresSTyle	5521
+      AndresSTyle	5521
     
-    AndresSTyle	6208
+      AndresSTyle	6208
 
     4. Reducer Output:
-    AndresSTyle	    6208.0
+      AndresSTyle	 6208.0
     
-    Mind Warehouse	57105.0
+      Mind Warehouse	 57105.0
     
-    5. Chart: Bar Chart.
-    ![bar_chart]( "bar chart")
+    5. Chart: Bar Chart:
+    
+     ![bar_chart]( "bar chart")
    
 - **Min - Rahul Mallampati**
 - Question : For each channel_title, find the minimum number of views.
@@ -83,57 +83,59 @@ YouTube uses a combination of factors including measuring users interactions (nu
     1. Mapper Input :n1WpP7iowLc,17.14.11,EminemVEVO,10,2017-11-10T17:00:03.000Z,Eminem|"Walk"|"On"|"Water"|"Aftermath/Shady/Interscope"|"Rap",17158579,787425,43420,125882
     
     2. Mapper Output:
-    EminemVEVO	       17158579
+      EminemVEVO	       17158579
     
-    iDubbbzTV	        1014651
+      iDubbbzTV	        1014651
     
-    Rudy Mancuso	    3191434
+      Rudy Mancuso	    3191434
     
     3. Reducer input:
-     AndresSTyle	353694
+      AndresSTyle	353694
      
-     AndresSTyle	456096
+      AndresSTyle	456096
      
-     AndresSTyle	520401
+      AndresSTyle	520401
      
     4. Reducer Output:
-     AndresSTyle,353694.0
+      AndresSTyle,353694.0
      
-     Mind Warehouse,75065.0
+      Mind Warehouse,75065.0
      
-     SeekingTheTruth,119011.0
+      SeekingTheTruth,119011.0
 
-    5. Chart: Bar Chart.
+     5.  Chart: Bar Chart:
     
-    ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/minimum%20views.png "bar chart")
+      ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/minimum%20views.png "bar chart")
 
 
 - **Count - Revanth Davuluri**
 - Question : For each channel_title, find the Average number of likes.
 - Solution : 
-     1. Mapper Input :n1WpP7iowLc,17.14.11,EminemVEVO,10,2017-11-10T17:00:03.000Z,Eminem|"Walk"|"On"|"Water"|"Aftermath/Shady/Interscope"|"Rap",17158579,787425,43420,125882
+     1. Mapper Input :n1WpP7iowLc,17.14.11,EminemVEVO,10,2017-11-  10T17:00:03.000Z,Eminem|"Walk"|"On"|"Water"|"Aftermath/Shady/Interscope"|"Rap",17158579,787425,43420,125882
      
     2. Mapper Output:
-    EminemVEVO	787425
+      EminemVEVO	787425
     
-    iDubbbzTV	127794
+      iDubbbzTV	  127794
     
-    Rudy Mancuso146035
+      Rudy Mancuso 146035
     
     3.Reducer input:
-     AndresSTyle	4655
+      AndresSTyle	4655
      
-     AndresSTyle	5521
+      AndresSTyle	5521
      
-     AndresSTyle	6208
+      AndresSTyle	6208
     4. Reducer Output:
-     AndresSTyle	4655.0
+      AndresSTyle	4655.0
      
-     Mind Warehouse	11788.0
+      Mind Warehouse	11788.0
      
-     SeekingTheTruth	3277.0
+      SeekingTheTruth	3277.0
 
-    5.Chart:  ![bar_chart](  "bar chart")
+    5. Chart: Bar Chart:
+    
+      ![bar_chart](  "bar chart")
 
 
 
