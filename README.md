@@ -105,7 +105,7 @@ YouTube uses a combination of factors including measuring users interactions (nu
 
      5.  Chart: Bar Chart:
     
-      ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/minimum%20views.png "bar chart")
+    ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/minimum%20views.png "bar chart")
 
 
 - **Count - Revanth Davuluri**
