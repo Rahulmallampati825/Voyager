@@ -134,8 +134,7 @@ YouTube uses a combination of factors including measuring users interactions (nu
       SeekingTheTruth	3277.0
 
     5. Chart: Bar Chart:
-    
-      ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/Average%20likes%20.png "bar chart")
+   ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/Average%20likes%20.png "bar chart")
 
 
 
