@@ -1,5 +1,7 @@
+#  giving input 02.txt which is the output of sortshuffle
 s = open("02.txt","r",encoding='utf-8')
-r = open("maxdata.txt", "w",encoding='utf-8')
+# the o/p of reducer is maxdata.txt
+r = open("maxdata.csv", "w",encoding='utf-8')
 
 thisKey = ""
 thisValue = 0.0
@@ -12,7 +14,7 @@ for line in s:
   if channel_title != thisKey:
     if thisKey:
       # output the last key value pair result
-      r.write(thisKey + '\t' + str(thisValue)+'\n')
+      r.write(thisKey + ',' + str(thisValue)+'\n')
 
     # start over when changing keys
     thisKey = channel_title 
@@ -22,7 +24,7 @@ for line in s:
   thisValue = max(thisValue,float(likes))
 
 # output the final entry when done
-r.write(thisKey + '\t' + str(thisValue)+'\n')
+r.write(thisKey + ',' + str(thisValue)+'\n')
 
 s.close()
 r.close()
