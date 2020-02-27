@@ -75,7 +75,7 @@ YouTube uses a combination of factors including measuring users interactions (nu
     
     5. Chart: Bar Chart:
     
-     ![bar_chart]( "bar chart")
+     ![bar_chart](https://github.com/Rahulmallampati825/Voyager/blob/master/Images/maximum%20likes.png "bar chart")
    
 - **Min - Rahul Mallampati**
 - Question : For each channel_title, find the minimum number of views.
